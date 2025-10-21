@@ -1,0 +1,10 @@
+[project]
+name = "pinn-volatility-predictor"
+version = "0.1.0"
+description = "Physics-Informed Neural Networks for Predicting Market Volatility"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name="Your Name"}]
+
+[tool.setuptools]
+packages = ["pinn_volatility"]
